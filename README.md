@@ -8,3 +8,8 @@ Calculate and print:
 [average = (sum of total marks of all the students)/N]
 (ii) Deviation of each student's total marks with the average.
 [deviation = total marks of a student - average]
+
+## Data Types 
+###### Data types are divided into two groups:
+Primitive data types - includes byte, short, int, long, float, double, boolean and char
+ Non-primitive data types - such as String, Arrays and Classes (you will learn more about these in a later chapter)

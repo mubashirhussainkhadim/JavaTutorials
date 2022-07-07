@@ -1,3 +1,5 @@
+
+// if u want percentage in decimals then declair subjects marks as float 
 import java.util.Scanner;
 
 

@@ -24,7 +24,7 @@ In Java, a string is a sequence of characters. For example, "hello" is a string 
 We use double quotes to represent a string in Java. For example,
 
 // create a string
-String type = "Java programming";
+```rubyString type = "Java programming";```
 
 Here, we have created a string variable named type. The variable is initialized with the string Java Programming.
 

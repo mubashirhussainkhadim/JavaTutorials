@@ -31,8 +31,8 @@ Here, we have created a string variable named type. The variable is initialized 
 
 ###### The String class has a set of built-in methods that you can use on strings.
 https://www.w3schools.com/java/java_ref_string.asp
-charAt() 	Returns the character at the specified index (position) 	char
-codePointAt() 	Returns the Unicode of the character at the specified index 	int
+* Bullet list charAt() 	Returns the character at the specified index (position) 	char
+* codePointAt() 	Returns the Unicode of the character at the specified index 	int
 codePointBefore() 	Returns the Unicode of the character before the specified index 	int
 codePointCount() 	Returns the number of Unicode values found in a string. 	int
 compareTo() 	Compares two strings lexicographically 	int

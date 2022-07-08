@@ -2,7 +2,7 @@ import java.util.Random;
 
 import java.util.Scanner;
 
-class ROCKPAPERGAME {
+public class ROCKPAPERGAME {
 
     public static void main(String[] args) {
 

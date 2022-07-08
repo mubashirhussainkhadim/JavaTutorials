@@ -90,8 +90,23 @@ https://www.w3schools.com/java/java_ref_string.asp
 *    Use else to specify a block of code to be executed, if the same condition is false
 *    Use else if to specify a new condition to test, if the first condition is false
 *    Use switch to specify many alternative blocks of code to be executed
- 
- 
+ ```ruby
+ import java.util.Scanner;
+public class Condiations {
+       public static void main (String[] args) {
+   		Scanner sc = new Scanner(System.in);
+    	System.out.println("Please Enter Your AGE");
+        int Age = sc.nextInt();
+        
+        if (Age > 18 && Age < 50) {
+        	System.out.println("Yes you CAn Drive");
+        }
+        else {
+        	System.out.println("No Boy NOT Yet!");
+        }
+       }
+}
+ ```
 ## Java Logical Operators
 
 ###### Logical operators are used to check whether an expression is true or false. They are used in decision making.

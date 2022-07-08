@@ -90,3 +90,22 @@ https://www.w3schools.com/java/java_ref_string.asp
 *    Use else to specify a block of code to be executed, if the same condition is false
 *    Use else if to specify a new condition to test, if the first condition is false
 *    Use switch to specify many alternative blocks of code to be executed
+ 
+ 
+## Java Logical Operators
+
+###### Logical operators are used to check whether an expression is true or false. They are used in decision making.
+Operator
+			
+			
+* && (Logical AND)
+					expression1 && expression2
+					true only if both expression1 and expression2 are true
+			
+*  || (Logical OR)
+					expression1 || expression2
+					true if either expression1 or expression2 is true
+			
+*  ! (Logical NOT)
+					!expression
+					true if expression is false and vice versa

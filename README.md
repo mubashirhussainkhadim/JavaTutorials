@@ -206,4 +206,15 @@ do {
   i++;
 }
 while (i < 5);
+
+```
+
+## for Loop
+```java
+
+for (i=7; i!=0; i--){
+
+            System.out.println(i);
+
+}
 ```

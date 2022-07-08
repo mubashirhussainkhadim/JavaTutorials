@@ -24,7 +24,7 @@ In Java, a string is a sequence of characters. For example, "hello" is a string 
 We use double quotes to represent a string in Java. For example,
 
 // create a string
-```ruby 
+```java 
 String type = "Java programming";
 ```
 
@@ -92,7 +92,7 @@ https://www.w3schools.com/java/java_ref_string.asp
 *    Use else to specify a block of code to be executed, if the same condition is false
 *    Use else if to specify a new condition to test, if the first condition is false
 *    Use switch to specify many alternative blocks of code to be executed
- ```ruby
+ ```java
  import java.util.Scanner;
 public class Condiations {
        public static void main (String[] args) {
@@ -136,7 +136,7 @@ Operator
   *  If there is a match, the associated block of code is executed.
   *  The break and default keywords are optional, and will be described later in this chapter
 
-```ruby
+```java
 import java.util.Scanner;
 public class SwitchStatementsInjava {
     
